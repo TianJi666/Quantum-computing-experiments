@@ -1,0 +1,3 @@
+量子-经典混合算法的代码是hybrid_quantum_classical_detector.py直接运行即可
+improved_dataset.py是数据集处理的代码
+剩下的代码是对比实验中的SVM、随机森林和CNN的代码
